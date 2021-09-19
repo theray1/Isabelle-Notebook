@@ -8,7 +8,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/isabelleheadssbu"
-        android:label="Isabelle"
+        android:label="Isabelle's notebook"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.IsabelleTournamentPocketApp">
