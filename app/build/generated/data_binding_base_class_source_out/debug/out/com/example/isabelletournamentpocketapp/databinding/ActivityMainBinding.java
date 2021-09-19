@@ -162,10 +162,10 @@ public final class ActivityMainBinding implements ViewBinding {
   public final ImageButton miibrawler51;
 
   @NonNull
-  public final ImageButton miigunner52;
+  public final ImageButton miigunner53;
 
   @NonNull
-  public final ImageButton miiswordfighterssbu;
+  public final ImageButton miiswordfighter52;
 
   @NonNull
   public final ImageButton minmin76;
@@ -319,7 +319,7 @@ public final class ActivityMainBinding implements ViewBinding {
       @NonNull ImageButton luigi9, @NonNull ImageButton mario1, @NonNull ImageButton marth21,
       @NonNull ImageButton megaman46, @NonNull ImageButton metaknight27,
       @NonNull ImageButton mewtwo24, @NonNull ImageButton miibrawler51,
-      @NonNull ImageButton miigunner52, @NonNull ImageButton miiswordfighterssbu,
+      @NonNull ImageButton miigunner53, @NonNull ImageButton miiswordfighter52,
       @NonNull ImageButton minmin76, @NonNull ImageButton mrgameandwatch26,
       @NonNull ImageButton ness10, @NonNull ImageButton olimar40, @NonNull ImageButton pacman55,
       @NonNull ImageButton palutena54, @NonNull ImageButton peach13, @NonNull ImageButton pichu19,
@@ -385,8 +385,8 @@ public final class ActivityMainBinding implements ViewBinding {
     this.metaknight27 = metaknight27;
     this.mewtwo24 = mewtwo24;
     this.miibrawler51 = miibrawler51;
-    this.miigunner52 = miigunner52;
-    this.miiswordfighterssbu = miiswordfighterssbu;
+    this.miigunner53 = miigunner53;
+    this.miiswordfighter52 = miiswordfighter52;
     this.minmin76 = minmin76;
     this.mrgameandwatch26 = mrgameandwatch26;
     this.ness10 = ness10;
@@ -736,15 +736,15 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.miigunner52;
-      ImageButton miigunner52 = ViewBindings.findChildViewById(rootView, id);
-      if (miigunner52 == null) {
+      id = R.id.miigunner53;
+      ImageButton miigunner53 = ViewBindings.findChildViewById(rootView, id);
+      if (miigunner53 == null) {
         break missingId;
       }
 
-      id = R.id.miiswordfighterssbu;
-      ImageButton miiswordfighterssbu = ViewBindings.findChildViewById(rootView, id);
-      if (miiswordfighterssbu == null) {
+      id = R.id.miiswordfighter52;
+      ImageButton miiswordfighter52 = ViewBindings.findChildViewById(rootView, id);
+      if (miiswordfighter52 == null) {
         break missingId;
       }
 
@@ -1018,7 +1018,7 @@ public final class ActivityMainBinding implements ViewBinding {
           fox7, ganondorf23, greninja50, hero72, iceclimbers15, ike32, incineroar69, inkling64,
           isabelle68, jigglypuff12, joker71, kazuya81, ken60, kingdedede39, kingkrool67, kirby6,
           link3, littlemac49, lucario41, lucas37, lucina21, luigi9, mario1, marth21, megaman46,
-          metaknight27, mewtwo24, miibrawler51, miigunner52, miiswordfighterssbu, minmin76,
+          metaknight27, mewtwo24, miibrawler51, miigunner53, miiswordfighter52, minmin76,
           mrgameandwatch26, ness10, olimar40, pacman55, palutena54, peach13, pichu19, pikachu8,
           piranhaplant70, pit28, pokemontrainer33, pokemontrainer34, pokemontrainer35, pyramythra79,
           pyramythra80, richter66, ridley65, rob42, robin56, rosalina48, roy25, ryu60, samus4,

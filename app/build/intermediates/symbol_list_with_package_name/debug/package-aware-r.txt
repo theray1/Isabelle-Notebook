@@ -2245,8 +2245,8 @@ id metaknight27
 id mewtwo24
 id middle
 id miibrawler51
-id miigunner52
-id miiswordfighterssbu
+id miigunner53
+id miiswordfighter52
 id mini
 id minmin76
 id month_grid

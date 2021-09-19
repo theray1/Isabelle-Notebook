@@ -2244,8 +2244,8 @@ int id metaknight27 0x7f080132
 int id mewtwo24 0x7f080133
 int id middle 0x7f080134
 int id miibrawler51 0x7f080135
-int id miigunner52 0x7f080136
-int id miiswordfighterssbu 0x7f080137
+int id miigunner53 0x7f080136
+int id miiswordfighter52 0x7f080137
 int id mini 0x7f080138
 int id minmin76 0x7f080139
 int id month_grid 0x7f08013a

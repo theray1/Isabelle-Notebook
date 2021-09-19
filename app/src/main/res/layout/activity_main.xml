@@ -437,14 +437,14 @@
                     app:srcCompat="@drawable/miibrawlerheadssbu" />
 
                 <ImageButton
-                    android:id="@+id/miigunner52"
+                    android:id="@+id/miigunner53"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
                     app:srcCompat="@drawable/miigunnerheadssbu" />
 
                 <ImageButton
-                    android:id="@+id/miiswordfighterssbu"
+                    android:id="@+id/miiswordfighter52"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
