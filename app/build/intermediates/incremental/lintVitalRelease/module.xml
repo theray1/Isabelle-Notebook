@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app"
+    name=":app"
+    type="APP"
+    maven="IsabelleTournamentPocketApp:app:"
+    gradle="7.0.0"
+    buildFolder="build"
+    bootClassPath="/home/theray1/Android/Sdk/platforms/android-31/android.jar:/home/theray1/Android/Sdk/build-tools/30.0.2/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,26 @@
+com/example/isabelletournamentpocketapp/DataDisplayActivity.java
+ com.example.isabelletournamentpocketapp.DataDisplayActivity
+ com.example.isabelletournamentpocketapp.DataDisplayActivity$1
+com/example/isabelletournamentpocketapp/Character.java
+ com.example.isabelletournamentpocketapp.Character
+com/example/isabelletournamentpocketapp/MainActivity.java
+ com.example.isabelletournamentpocketapp.MainActivity
+ com.example.isabelletournamentpocketapp.MainActivity$1
+ com.example.isabelletournamentpocketapp.MainActivity$2
+ com.example.isabelletournamentpocketapp.MainActivity$3
+com/example/isabelletournamentpocketapp/databinding/ActivityMainBinding.java
+ com.example.isabelletournamentpocketapp.databinding.ActivityMainBinding
+com/example/isabelletournamentpocketapp/SpreadsheetTask.java
+ com.example.isabelletournamentpocketapp.SpreadsheetTask
+com/example/isabelletournamentpocketapp/SpreadsheetParser.java
+ com.example.isabelletournamentpocketapp.SpreadsheetParser
+com/example/isabelletournamentpocketapp/databinding/LoadingDialogBinding.java
+ com.example.isabelletournamentpocketapp.databinding.LoadingDialogBinding
+com/example/isabelletournamentpocketapp/BuildConfig.java
+ com.example.isabelletournamentpocketapp.BuildConfig
+com/example/isabelletournamentpocketapp/Spreadsheet.java
+ com.example.isabelletournamentpocketapp.Spreadsheet
+com/example/isabelletournamentpocketapp/LoadingDialog.java
+ com.example.isabelletournamentpocketapp.LoadingDialog
+com/example/isabelletournamentpocketapp/databinding/ActivityDataDisplayBinding.java
+ com.example.isabelletournamentpocketapp.databinding.ActivityDataDisplayBinding

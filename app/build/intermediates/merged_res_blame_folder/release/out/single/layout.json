@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/loading_dialog.xml",
+        "source": "/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/res/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_data_display.xml",
+        "source": "/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/res/layout/activity_data_display.xml"
+    }
+]

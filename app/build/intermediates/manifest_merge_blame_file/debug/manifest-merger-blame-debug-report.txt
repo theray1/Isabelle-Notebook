@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.isabelletournamentpocketapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:6:5-79
+12-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:8:5-27:19
+15        android:allowBackup="true"
+15-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] /home/theray1/.gradle/caches/transforms-3/e759884e8e1539e68246ec4d8729cc98/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@drawable/isabelleheadssbu"
+19-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:10:9-50
+20        android:label="Isabelle&apos;s notebook"
+20-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:11:9-33
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:13:9-35
+23        android:theme="@style/Theme.IsabelleTournamentPocketApp" >
+23-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:14:9-65
+24        <activity
+24-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:15:9-17:39
+25            android:name="com.example.isabelletournamentpocketapp.DataDisplayActivity"
+25-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:16:13-48
+26            android:exported="true" />
+26-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:17:13-36
+27        <activity
+27-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:18:9-26:20
+28            android:name="com.example.isabelletournamentpocketapp.MainActivity"
+28-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:19:13-41
+29            android:exported="true" >
+29-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:20:13-36
+30            <intent-filter>
+30-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:21:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:22:17-69
+31-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:22:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:24:17-77
+33-->/home/theray1/Code/Perso/IsabelleTournamentPocketApp/app/src/main/AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>
