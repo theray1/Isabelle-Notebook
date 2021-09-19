@@ -1,4 +1,5 @@
-Link to the app's apk file : https://github.com/theray1/isabelle-notebook/blob/main/app/release/app-release.apk
+Link to the app's apk file : https://github.com/theray1/isabelle-notebook/tree/main/app/release
+Just download the apk file on your phone and install it.
 
 Hey there fellow isabelle player! Isabelle's notebook was created in a few days, and is far from being perfect. It was initially thought and designed for 
 personal use only (which is to say, it was poorly designed).
