@@ -8,6 +8,7 @@ Upon getting to a usable state of the app, i eventually decided to make it publi
 
 Additionnaly, Isabelle's notebook uses a Google spreadsheet as a database, meaning that all the data displayed on the app comes from 
 here : https://docs.google.com/spreadsheets/d/1ePqzJlxj6JexMgIXOzJq99ENSXcvVWA0yTEttUhtI_M/edit?usp=sharing
+I do not take credit for coming up with these numbers and stats, most of them come from the official isabelle discord server and the french isabelle discord server.
 
 Anyone can edit this spreadsheet. If you lab something and want everyone to have access to the data you discovered, juste create a new column, 
 and fill it for every character.
