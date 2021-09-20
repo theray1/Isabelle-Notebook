@@ -3,7 +3,7 @@ Link to the app's apk file : https://github.com/theray1/isabelle-notebook/releas
 Hey there fellow isabelle player! Isabelle's notebook was created in a few days, and is far from being perfect. It was initially thought and designed for 
 personal use only (which is to say, it was poorly designed).
 
-Upon getting to a usable state of the app, i eventually decided to make it public, so that i could get feedback on it.
+Upon getting the app to a usable, i eventually decided to make it public, so that i could get feedback on it.
 
 Additionnaly, Isabelle's notebook uses a Google spreadsheet as a database, meaning that all the data displayed on the app comes from 
 here : https://docs.google.com/spreadsheets/d/1ePqzJlxj6JexMgIXOzJq99ENSXcvVWA0yTEttUhtI_M/edit?usp=sharing
