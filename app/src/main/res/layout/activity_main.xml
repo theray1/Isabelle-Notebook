@@ -121,7 +121,7 @@
                     app:srcCompat="@drawable/pokemontrainerheadssbu" />
 
                 <ImageButton
-                    android:id="@+id/chrom26"
+                    android:id="@+id/chrom25"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
@@ -602,7 +602,7 @@
                     app:srcCompat="@drawable/steveheadssbu" />
 
                 <ImageButton
-                    android:id="@+id/snake61"
+                    android:id="@+id/snake31"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
