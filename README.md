@@ -16,4 +16,4 @@ This system heavily relies on every user's good will, so please be nice and don'
 
 If you want to contact me, or have any questions regarding the way Isabelle's notebook works, here's my discord tag : theray1#3107
 
-Finally, thank you to those who whill be using and contributing to the Isabelle's notebook. 
+Finally, thank you to those who will be using and contributing to the Isabelle's notebook. 
