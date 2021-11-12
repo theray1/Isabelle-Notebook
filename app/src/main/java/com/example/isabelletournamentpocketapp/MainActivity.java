@@ -78,7 +78,6 @@ public class MainActivity extends AppCompatActivity {
     private void startDataDisplayActivity(Character character){
         Toast.makeText(MainActivity.this, character.getName(), Toast.LENGTH_SHORT).show();
 
-
         Intent i = new Intent(MainActivity.this, DataDisplayActivity.class);
         i.putExtra("character", character);
 
