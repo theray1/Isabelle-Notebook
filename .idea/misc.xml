@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/erwan/StudioProjects/isabelle-notebook/app/src/main/res/layout/activity_data_display.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/erwan/StudioProjects/isabelle-notebook/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/erwan/StudioProjects/isabelle-notebook/app/src/main/res/layout/loading_dialog.xml" value="0.2128623188405797" />
         <entry key="app/src/main/res/layout/activity_data_display.xml" value="0.2907608695652174" />
         <entry key="app/src/main/res/layout/fragment_loading.xml" value="0.17395833333333333" />
         <entry key="app/src/main/res/layout/loading_dialog.xml" value="0.33" />

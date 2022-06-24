@@ -5,6 +5,9 @@ import androidx.annotation.NonNull;
 import java.io.Serializable;
 import java.util.ArrayList;
 
+/**
+ * This class represents a playable character
+ */
 public class Character implements Serializable {
     private int maximumNumberOfEchoes = 2;
     private String[] data;
