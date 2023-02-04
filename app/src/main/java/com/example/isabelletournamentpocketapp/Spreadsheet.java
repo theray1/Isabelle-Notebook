@@ -12,7 +12,8 @@ public class Spreadsheet {
     public Spreadsheet(MainActivity ma){
         String rawFieldsLine;
         String returnString;
-        String scriptURL = "https://script.google.com/macros/s/AKfycbzb_d7VkX5dtZ3SAl_sIE3X6wSnwn-VOtid4zADEGUAXacCwEv2Wy-5-tjFpkdujTVwPA/exec";
+
+        String scriptURL = "https://script.google.com/macros/s/AKfycbzw6tewTJDZkwlpNU6NZVudnu4UjZRIPM6NRANg4A3w5LPtexVqQFv4_WnfYBgiXKJePw/exec";
 
         try {
             URL url = new URL(scriptURL);
